@@ -34,7 +34,7 @@ connection.get('http://example.com/some.xml')
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/faraday\_middleware-parse\_ox/fork )
+1. Fork it ( https://github.com/[my-github-username]/faraday_middleware-parse_ox/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
